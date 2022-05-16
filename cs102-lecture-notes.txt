@@ -1,0 +1,6 @@
+git clone - used to clone the repositary
+git remote -v -- used to see remote links are plcaed correctly or not so that we can pull or push changes
+git add . -- it adds the file into current repository
+git commit -m "  " -- it commits the changes into the repository
+git status -- it shows if file are commited or  pushed to local server
+git push --it pushes changes to local server

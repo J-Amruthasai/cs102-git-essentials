@@ -8,6 +8,10 @@ In order to create a title use single # then write title name
 for a section in title use double ## then write a text
 for writing a sub section use ### triple hash then write the text in markdown all in one 
 THIS IS THE LECTURE 14 
+
+
+
+
 git clone - used to clone the repositary
 git remote -v -- used to see remote links are plcaed correctly or not so that we can pull or push changes
 git add . -- it adds the file into current repository

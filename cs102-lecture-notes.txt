@@ -1,0 +1,16 @@
+MARKDOWN- is a markup language for creating a forrmatted text using plain text editor 
+In visual code editor there are extensions and markdown All in One is one extension. when we write a plain text in markdown all in one click on preview we can see the formatted text there 
+markdown lan is done by using README.md, Here md represent the markdown 
+In the formatted text -- points are used to highlate the text and for subtitles there will be a line under the text 
+when we click on page source in the web page created by markdown then we see a html code form for that text
+Here markdown previewer or markdown intrepreter changes the plain text into the html code to give the formatted text
+In order to create a title use single # then write title name 
+for a section in title use double ## then write a text
+for writing a sub section use ### triple hash then write the text in markdown all in one 
+THIS IS THE LECTURE 14 
+git clone - used to clone the repositary
+git remote -v -- used to see remote links are plcaed correctly or not so that we can pull or push changes
+git add . -- it adds the file into current repository
+git commit -m "  " -- it commits the changes into the repository
+git status -- it shows if file are commited or  pushed to local server
+git push --it pushes changes to local server
